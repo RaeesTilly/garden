@@ -6,4 +6,4 @@ RUN pip install spacy
 
 COPY . /app
 
-CMD python ./garden.py
+CMD python garden.py
